@@ -1,0 +1,16 @@
+uuid
+pystyle
+colorama
+requests
+Fore
+discord
+init
+opencv-python==4.6.0.66
+pycryptodome
+pycryptodomex
+Pillow
+discord_webhook
+mss
+b64
+DiscordWebhook
+requests
